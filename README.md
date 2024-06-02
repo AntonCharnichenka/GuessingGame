@@ -1,5 +1,9 @@
 # Guessing game written in Rust 
 
+![Rust](https://img.shields.io/badge/Rust-Programming%20Language-black?logo=rust)
+
+This project is written in Rust and uses [Cargo](https://doc.rust-lang.org/cargo/)
+
 ## Requirements
 You should have Rust compiler and Cargo build and dependencies managment tool
 
