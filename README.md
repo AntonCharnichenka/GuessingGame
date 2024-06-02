@@ -5,7 +5,7 @@
 This project is written in Rust and uses [Cargo](https://doc.rust-lang.org/cargo/)
 
 ## Requirements
-You should have Rust compiler and Cargo build and dependencies managment tool
+You should have Rust compiler and Cargo build and dependencies managment tool installed locally
 
 ## Installation
 1. Clone the source code to a local directory
