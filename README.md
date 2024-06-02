@@ -1,7 +1,12 @@
 # Guessing game written in Rust 
 
+## Requirements
+You should have Rust compiler and Cargo build and dependencies tool
+
 ## Installation
-Build and run the game using the following command:
+1. Clone the source code to the local directory
+2. Navigate to the local directory containint the game source code
+2. Build and run the game using the following command:
 ```bash
 cargo run
 ```
