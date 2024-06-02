@@ -1,4 +1,4 @@
-# Guessing game written in Rust 
+# Guessing game
 
 ![Rust](https://img.shields.io/badge/Rust-Programming%20Language-black?logo=rust)
 
