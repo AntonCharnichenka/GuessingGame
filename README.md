@@ -9,7 +9,7 @@ You should have Rust compiler and Cargo build and dependencies managment tool in
 
 ## Installation
 1. Clone the source code to a local directory
-2. Navigate to the local directory containint game's source code
+2. Navigate to the local directory containing game's source code
 2. Build and run the game using the following command:
 ```bash
 cargo run
